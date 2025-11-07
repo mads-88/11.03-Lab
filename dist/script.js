@@ -15,7 +15,7 @@ function domLoaded() {
     });
 }
 
-// add flow
+
 function addBtnClick() {
     const input = document.getElementById("taskInput");
     const text = input.value.trim();
